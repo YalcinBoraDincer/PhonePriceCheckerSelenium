@@ -21,6 +21,12 @@ Welcome to the Price Comparison Tool for Phones! This Python-based application u
 - **Websites Scraped:**
   - [Amazon](https://www.amazon.com.tr)
   - [Trendyol](https://www.trendyol.com)
+ 
+## 📸 Preview
+
+![unknown_2024 08 14-16 07-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/473663cf-0076-479c-84f8-bd66a353d0eb)
+
+
 
 ## 🔑 Setup Instructions
 
