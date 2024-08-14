@@ -6,9 +6,9 @@ import amazon_phones as af
 import trendyol_phones as tf
 
 af.fetch_amazon_phones()
-time.sleep(3)
+time.sleep(2)
 tf.fetch_trendyol_phones()
-
+time.sleep(2)
 df1 = pd.read_excel('amazon_products.xlsx')
 df2 = pd.read_excel('trendyol_products.xlsx')
 
